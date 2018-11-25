@@ -1,0 +1,14 @@
+;; File is formatted as an ini file and parsed with parse_ini_file()
+
+hello = "Hello"
+
+general.current_time = "Current Time:"
+
+;; Import big_html.en.html and process it with include()
+big_html = @import big_html.en.html exec
+
+;; Import http://google.com and run strip_tags against
+http_example = "@import http://google.com url,callback=strip_tags"
+
+;; Import somecode.php and process it with include()
+current_time = "@import somecode.php exec"
