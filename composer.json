@@ -1,6 +1,20 @@
 {
   "name": "jthistlethwaite/template-engine",
   "description": "Light-weight engine for document templating and language translation",
+  "require": {
+    "php": ">=7.0"
+  },
+  "homepage": "https://github.com/jthistlethwaite/template-engine",
+
+  "authors": [
+    {
+      "name": "Jason Thistlethwaite",
+      "email": "jason.thistlethwaite@gmail.com",
+      "role": "Developer"
+    }
+  ],
+
+
   "license": "BSD",
   "version": "stable",
   "autoload": {
