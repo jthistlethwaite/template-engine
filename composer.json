@@ -1,0 +1,11 @@
+{
+  "name": "jthistlethwaite/template-engine",
+  "description": "Light-weight engine for document templating and language translation",
+  "minimum-stability": "dev",
+  "license": "BSD",
+  "autoload": {
+    "psr-0": {
+      "jthistlethwaite\\template-engine": "src"
+    }
+  }
+}
