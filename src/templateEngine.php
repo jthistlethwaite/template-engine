@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Jason Thistlethwaite
- * @package templateEngine
+ * @package jthistlethwaite/template-engine
  * @license BSD
  *
  * Copyright 2016 - 2018 Jason Thistlethwaite
