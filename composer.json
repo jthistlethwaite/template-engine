@@ -4,7 +4,7 @@
   "license": "BSD",
   "version": "stable",
   "autoload": {
-    "psr-0": {
+    "psr-4": {
       "jthistlethwaite\\templateEngine": "src"
     }
   }
