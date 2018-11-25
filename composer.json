@@ -15,7 +15,7 @@
   ],
 
 
-  "license": "BSD",
+  "license": "BSD-3-Clause-Clear",
   "version": "stable",
   "autoload": {
     "psr-4": {
